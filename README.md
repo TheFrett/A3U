@@ -3,6 +3,7 @@ A3U 0.1 Alpha
 Scripts by Frett
 
 A3U is a collection of scripts that can be added to any mission. It will provide immersive undercover gameplay.
+It is written in such a way that it will also work with dynamic mission, such as ALiVE missions or DUWS.
 
 Current features:
 
