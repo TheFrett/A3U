@@ -1,6 +1,8 @@
 A3U 0.1 Alpha
 
-Mod by Frett
+Scripts by Frett
+
+A3U is a collection of scripts that can be added to any mission. It will provide immersive undercover gameplay.
 
 Current features:
 
