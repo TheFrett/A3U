@@ -1,4 +1,4 @@
-Arma 3 undercover
+A3U 0.1 Alpha
 
 Mod by Frett
 
